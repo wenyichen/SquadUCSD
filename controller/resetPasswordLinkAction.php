@@ -18,7 +18,7 @@ $result = mysqli_query($conn, $sql);
 
 if (!$row = mysqli_fetch_assoc($result)) {
     // No match -> Invalid or expired reset password link.
-    header("Location: http://www.squaducsd.com/login.php?invalidreset");
+    header("Location: http://www.squaducsd.com/error.php");
 }
 ?>
 <!-- stop PHP Code -->
