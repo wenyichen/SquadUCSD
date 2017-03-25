@@ -8,10 +8,10 @@ This web app allows students to form study groups for the classes they are enrol
 
 <p>
 This app was developed as part of the CSE110: Software Engineering course at UCSD.
+</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k4o1xaSpKTU?ecver=1" frameborder="0" allowfullscreen></iframe>
 
-</p>
 <p>Our group members in alphabetical order and github links:</p>
 <ul>
 <li><a href=https://www.github.com/braanderson>Brad Anderson</a></li>
